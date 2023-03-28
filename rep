@@ -1,0 +1,6 @@
+import package
+fmt func()
+a=10;
+b=20;
+c=a+b;
+fmt.println("c");
